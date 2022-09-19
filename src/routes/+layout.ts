@@ -2,7 +2,7 @@ import { getIdentity } from "$lib/kratos";
 import identity from "$lib/stores/kratos/identity";
 
 
-// -----------------------------------------------------------------------------
+// ---------------------------Q--------------------------------------------------
 export const csr = false;
 export const prerender = true;
 
