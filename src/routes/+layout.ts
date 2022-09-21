@@ -1,10 +1,9 @@
 import { getIdentity } from "$lib/kratos";
 import identity from "$lib/stores/kratos/identity";
 
-
 // ---------------------------Q--------------------------------------------------
-export const csr = false;
-export const prerender = true;
+export const csr = true;
+export const prerender = false;
 
 export async function load() {
   await getIdentity()
