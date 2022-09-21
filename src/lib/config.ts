@@ -1,2 +1,2 @@
-export const KRATOS = "https://___KRATOS_FQDN___";
-export const APP = "https://___APP_FQDN___";
+export const KRATOS = "http://localhost:4433";
+export const APP = "http://localhost:3000";
