@@ -9,6 +9,7 @@ const config = {
   preprocess: preprocess(),
 
   kit: {
+    adapter: adapter(),
   },
 };
 
